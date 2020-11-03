@@ -107,22 +107,22 @@
     "clients": [
         {
             "name": "Anna Drapery Corp.",
-            "imagelink": "http://annasdrapery.com/Themes/NopShop/Content/css/images/red_logo.png",
+            "imagelink": "assets/images/annadrapery.png",
             "sitelink": "http://annasdrapery.com"
         },
         {
             "name": "Elegant Blinds Inc.",
-            "imagelink": "http://elegantblindsinc.com/Themes/GrandNodeTheme/Content/images/logo.png",
+            "imagelink": "assets/images/elegantblindsinc.png",
             "sitelink": "http://elegantblindsinc.com/"
         },
         {
             "name": "Smartturn",
-            "imagelink": "https://ww1.prweb.com/prfiles/2009/09/29/2965424/0_smartturnlogo3color.jpg",
+            "imagelink": "assets/images/smartturn.jpg",
             "sitelink": "https://www.smartturn.com/"
         },
         {
             "name": "DiCentral",
-            "imagelink": "https://www.dicentral.com/css/assets/imgs/dicentral-logo.png",
+            "imagelink": "assets/images/dicentral.png",
             "sitelink": "https://www.dicentral.com/"
         }
     ],
